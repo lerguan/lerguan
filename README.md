@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Data Analysis and Software Development
+- 🌱 I’m currently learning Java
+- 💬 Ask me about anything from life science, chemistry to data analysis and programming
